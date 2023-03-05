@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I’m currently working on ☁️ AWS, Azure
+- You can read my blog at https://blog.cloudbuff.in/
+
 <!--
 **sjejurkar/sjejurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
