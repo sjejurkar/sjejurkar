@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently working on ☁️ AWS, Azure
+- I’m currently working with ☁️ AWS, Azure, Python, GenAI...
 - You can read my blog at https://blog.cloudbuff.in/
 
 <!--
